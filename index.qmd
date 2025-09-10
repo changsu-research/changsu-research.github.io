@@ -1,7 +1,7 @@
 ---
-title: "Quarto Academic, PhD"
+title: "Chang Su, PhD"
 description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
-image: "files/images/placeholder4.JPG"
+image: "files/images/avatar_changsu.jpg"
 page-navigation: false
 toc: false
 #sidebar: false
@@ -85,13 +85,12 @@ I'm a template that you can fork to build your own website with easy adaptation 
 1. **Refine and polish** your content and design as needed.  
 1. ✅ Enjoy your new website!
 
-## Experience
 
-- Researcher, Univerisity
 
 ## Education
 
-- PhD, Univerisity
+- MA in Economics, Colorado State Univerisity
+- MA in Applied Economics, Beijing Jiaotong University
 
 :::
 
