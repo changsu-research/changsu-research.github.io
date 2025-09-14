@@ -1,6 +1,6 @@
 ---
 title: "Chang Su"
-description-meta: "Graduate student in Economics"
+description-meta: "description-meta: "Graduate student in Economics at Colorado State University. Research interests: environmental economics, quantitative marketing, and sustainability."
 image: "files/images/avatar_changsu.jpg"
 page-navigation: false
 toc: false
