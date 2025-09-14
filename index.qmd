@@ -36,13 +36,10 @@ listing:   # Comment the listing section and delete corresponding lines in the i
 
 :::{#hero-heading}
 
-Hi, I’m Chang Su (苏畅 in Chinese).  
-I am currently a graduate student in the Department of Economics at Colorado State University.  
+Hi, I’m Chang Su (苏畅 in Chinese).  I am currently a graduate student in the Department of Economics at Colorado State University. My research lies at the intersection of **environmental economics**, **quantitative marketing**, and **sustainability**.  I am particularly interested in **consumer choices toward sustainable products and energy-saving technologies**, as well as **firms’ environmental strategies and marketing behaviors**.  
 
-My research lies at the intersection of **environmental economics**, **quantitative marketing**, and **sustainability**.  
-I am particularly interested in **consumer choices toward sustainable products and energy-saving technologies**, as well as **firms’ environmental strategies and marketing behaviors**.  
+Specifically, my work focuses on:
 
-Specifically, my work focuses on:  
 - The global energy efficiency gap, and how policies can reduce consumer and firm irrationalities to close this gap.  
 - The role of labels and visual signals in shaping consumer behavior.  
 - Applying structural models, causal inference, and machine learning methods to analyze consumer behavior and firm strategies, with applications in sustainability, technology, and related markets.  
